@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Okta Neue";
+    src: local("Okta Neue"),
+        local("Okta Neue"),
+        url("../fonts/okta-neue/medium/OktaNeue-Medium.woff2") format("woff2"),
+        url("../fonts/okta-neue/medium/OktaNeue-Medium.woff") format("woff"),
+        url("../fonts/okta-neue/medium/OktaNeue-Medium.eot?") format("eot"),
+        url("../fonts/okta-neue/medium/OktaNeue-Medium.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Okta Neue";
+    src: local("Okta Neue"),
+        local("Okta Neue"),
+        url("../fonts/okta-neue/semibold/OktaNeue-SemiBold.woff2") format("woff2"),
+        url("../fonts/okta-neue/semibold/OktaNeue-SemiBold.woff") format("woff"),
+        url("../fonts/okta-neue/semibold/OktaNeue-SemiBold.eot?") format("eot"),
+        url("../fonts/okta-neue/semibold/OktaNeue-SemiBold.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
